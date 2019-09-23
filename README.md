@@ -11,4 +11,4 @@ adonis seed
 ``` javacript
 TypeError: Cannot read property 'name' of undefined
 ```
-![](assests/erro_factory_js_seed.png)
+![](assets/erro_factory_js_seed.png)
