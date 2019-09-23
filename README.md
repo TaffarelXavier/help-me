@@ -1,14 +1,16 @@
 # :pushpin: Help-me
 
-> ## Neste Leia-me tem por objetivo mostrar todos os erros que encontrei durante processos de desenvolvimetno.
+> ## Neste Leia-me, serão mostrados os erros que encontrei durante processos de desenvolvimento.
 
-# Erro ao tentar executar o comando:
+# Erro 1)
+
+> ### Erro ao tentar executar o comando:
 ```javascript
 adonis seed
 ```
-### Descrição do erro:
-
+> ### Descrição do erro:
 ``` javacript
 TypeError: Cannot read property 'name' of undefined
 ```
+> Figura
 ![](assets/erro_factory_js_seed.png)
