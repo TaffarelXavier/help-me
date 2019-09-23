@@ -1,8 +1,7 @@
 # :pushpin: Help-me
+## Neste Leia-me, serão mostrados os erros que encontrei durante processos de desenvolvimento.
 
-> ## Neste Leia-me, serão mostrados os erros que encontrei durante processos de desenvolvimento.
-
-# Erro 1)
+# __Erro 1__
 
 > ### Erro ao tentar executar o comando:
 ```javascript
