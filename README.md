@@ -1,4 +1,4 @@
-# Help-me
+# :pushpin: Help-me
 
 > ## Neste Leia-me tem por objetivo mostrar todos os erros que encontrei durante processos de desenvolvimetno.
 
@@ -6,7 +6,7 @@
 ```javascript
 adonis seed
 ```
-``descrição do erro:``
+### Descrição do erro:
 
 ``` javacript
 TypeError: Cannot read property 'name' of undefined
