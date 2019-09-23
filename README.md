@@ -14,7 +14,7 @@ TypeError: Cannot read property 'name' of undefined
 > Figura
 ![](assets/erro_factory_js_seed.png)
 
-# Ajuda :Não mostrar os dados de autenticação
+# Ajuda: Como salvar o nome de usuário e senha no GIT?
 > ## Como eu faço para não apareer todas as vezes que vou dar um push aparecer os dados de autenticação?
 ``` git
 git config --global credential.helper store 
