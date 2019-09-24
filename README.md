@@ -17,3 +17,6 @@ TypeError: Cannot read property 'name' of undefined
 > ## Como eu faço para não apareer todas as vezes que vou dar um push aparecer os dados de autenticação?
 ``` git
 git config --global credential.helper store 
+
+Figuras para imprimir
+https://octolinker.now.sh/#languages
